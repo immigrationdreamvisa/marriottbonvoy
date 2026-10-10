@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, Cambria, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --color-marriott-red: #8a1538;
+  --color-marriott-red-hover: #6e0f2b;
+  --color-marriott-red-light: #faeef1;
+  --color-marriott-gold: #c5a059;
+  --color-warm-beige: #f5f3ef;
+  --color-soft-gray: #f3f4f6;
+  --color-charcoal: #1c1917;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: #1c1917;
+  background-color: #faf9f6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: var(--font-serif);
+}
+
+::selection {
+  background-color: #faeef1;
+  color: #8a1538;
+}

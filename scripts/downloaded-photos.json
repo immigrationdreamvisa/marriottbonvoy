@@ -1,0 +1,88 @@
+{
+  "ritz-carlton-kyoto": [
+    "/hotels/rc-kyoto-exterior.jpg",
+    "/hotels/rc-kyoto-garden.jpg"
+  ],
+  "ritz-carlton-half-moon-bay": [
+    "/hotels/rc-hmb-lodge.jpg",
+    "/hotels/rc-hmb-lawn.jpg",
+    "/hotels/rc-hmb-cliffs.jpg"
+  ],
+  "ritz-carlton-tokyo": [
+    "/hotels/rc-tokyo-midtown.jpg",
+    "/hotels/rc-tokyo-tower-top.jpg",
+    "/hotels/rc-tokyo-residences.jpg"
+  ],
+  "ritz-carlton-hong-kong": [
+    "/hotels/rc-hkg-entrance.jpg",
+    "/hotels/rc-hkg-exterior.jpg",
+    "/hotels/rc-hkg-icc-tower.jpg"
+  ],
+  "ritz-carlton-dubai": [
+    "/hotels/rc-dubai-jbr-beach.jpg",
+    "/hotels/rc-dubai-coastline.jpg",
+    "/hotels/rc-dubai-shoreline.jpg"
+  ],
+  "ritz-carlton-kapalu-maui": [
+    "/hotels/rc-maui-resort.jpg",
+    "/hotels/rc-maui-ocean-walk.jpg",
+    "/hotels/rc-maui-pools.jpg"
+  ],
+  "ritz-carlton-vienna": [
+    "/hotels/rc-vienna-palace-facade.jpg",
+    "/hotels/rc-vienna-palais-gutmann.jpg"
+  ],
+  "ritz-carlton-new-york-central-park": [
+    "/hotels/rc-nycp-facade.jpg",
+    "/hotels/rc-nycp-entrance.jpg",
+    "/hotels/rc-nycp-central-park-view.jpg"
+  ],
+  "ritz-carlton-grand-cayman": [
+    "/hotels/rc-cayman-beach-resort.jpg",
+    "/hotels/rc-cayman-sailboats.jpg",
+    "/hotels/rc-cayman-seven-mile-sun.jpg"
+  ],
+  "jw-marriott-venice": [
+    "/hotels/jw-venice-resort-spa.jpg",
+    "/hotels/jw-venice-private-island.jpg",
+    "/hotels/jw-venice-lagoon-boat.jpg"
+  ],
+  "jw-marriott-dubai-marquis": [
+    "/hotels/jw-dubai-marquis-towers.jpg",
+    "/hotels/jw-dubai-marquis-waterway.jpg",
+    "/hotels/jw-dubai-marquis-skyline.jpg"
+  ],
+  "jw-marriott-singapore-south-beach": [
+    "/hotels/jw-singapore-south-beach-tower.jpg",
+    "/hotels/jw-singapore-south-beach-avenue.jpg",
+    "/hotels/jw-singapore-nicoll-highway.jpg"
+  ],
+  "jw-marriott-masai-mara": [
+    "/hotels/jw-mara-river.jpg",
+    "/hotels/jw-mara-waters.jpg",
+    "/hotels/jw-mara-sunset.jpg"
+  ],
+  "jw-marriott-cannes": [
+    "/hotels/jw-cannes-croisette-facade.jpg",
+    "/hotels/jw-cannes-entrance.jpg",
+    "/hotels/jw-cannes-seafront.jpg"
+  ],
+  "jw-marriott-auckland": [
+    "/hotels/jw-auckland-tower.jpg",
+    "/hotels/jw-auckland-entrance.jpg",
+    "/hotels/jw-auckland-streetscape.jpg"
+  ],
+  "jw-marriott-essex-house-new-york": [
+    "/hotels/jw-essex-house-rooftop-sign.jpg",
+    "/hotels/jw-essex-house-facade.jpg",
+    "/hotels/jw-essex-house-central-park-view.jpg"
+  ],
+  "jw-marriott-marco-island": [
+    "/hotels/jw-marco-island-beachfront.jpg"
+  ],
+  "jw-marriott-grosvenor-house": [
+    "/hotels/jw-grosvenor-house-park-lane.jpg",
+    "/hotels/jw-grosvenor-house-facade.jpg",
+    "/hotels/jw-grosvenor-house-mayfair-view.jpg"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Marriott Bonvoy | Official Hotel Bookings & Travel",
+  "description": "Book hotels directly with Marriott Bonvoy. Explore luxury brands including The Ritz-Carlton and JW Marriott, verified global destinations, vacations, meetings, careers, and loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
